@@ -12,6 +12,8 @@ https://hackerone.com/reports/1525100
 https://issuetracker.google.com/issues/227263888
 
 
+https://github.com/golang/go/issues/52059
+
 ## 受害者
 - Golang developer
 - Golang open source automatic compilation integration server
